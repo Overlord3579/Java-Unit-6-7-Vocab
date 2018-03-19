@@ -1,5 +1,6 @@
 # Java-Unit-6-7-Vocab
-Unit 6 & 7 Java Vocab
+//Riley H., Alyx H., Jevin T., Ethan L. 
+//Unit 6 & 7 Java Vocab
 
 Unit 6
 
