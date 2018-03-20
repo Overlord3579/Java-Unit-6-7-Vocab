@@ -9,7 +9,7 @@ Unit 6
 
 3.) composition-
 
-4.) has-a relationship-
+4.) has-a relationship- An object in another class is an instance variable of a different class. 
 
 5.) precondition-
 
@@ -32,7 +32,6 @@ Unit 6
 14.) local variable-
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
-ALYX START HERE
 
 Unit 7
 
