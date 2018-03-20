@@ -1,6 +1,5 @@
 # Java-Unit-6-7-Vocab
 //Riley H., Alyx H., Jevin T., Ethan L. 
-//Unit 6 & 7 Java Vocab
 
 Unit 6
 
@@ -33,6 +32,7 @@ Unit 6
 14.) local variable-
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
+//Alyx start here
 
 Unit 7
 
